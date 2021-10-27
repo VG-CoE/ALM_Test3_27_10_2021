@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="crcf9_27_10_2021_Number">
+  <displayname default="27_10_2021_Number">
+    <label description="27_10_2021_Number" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000001</type>
+</environmentvariabledefinition>
